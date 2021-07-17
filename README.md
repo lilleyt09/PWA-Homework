@@ -1,1 +1,2 @@
 # PWA-Homework
+For this budget tracker, some files were added in the public folder to allow data to be tracked while offline.  The db.js file communicates added information to the database when online.  The service-worker.js file stores the offline data to a cache until a connection is made.  The manifest.webmanifest file allows the application to be rendered and work offline.
